@@ -62,6 +62,7 @@ if(expirydate>today):
     decision=1
     y=1
     banner='figlet RXCE'
+    print("Contact me on telegram @Prithvihackz")
     while(y):
         clear()
         system(banner)
