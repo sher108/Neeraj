@@ -94,4 +94,4 @@ if(expirydate>today):
         y=input("Do you want to play : Press 1 and 0 to exit \n")
 
 else:
-    print("Your hack has expired--- Please contact on telegram -----------@Maneger399")
+    print("Your hack has expired--- Please contact on telegram -----------@Prithvihackz")
